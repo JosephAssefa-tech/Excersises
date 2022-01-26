@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\Exe.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\Exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\Exe.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\Exe.AssemblyInfo.cs
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\Exe.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InterviewExcersie\Exe\bin\Debug\net5.0\Exe.exe
+C:\Users\user\source\repos\InterviewExcersie\Exe\bin\Debug\net5.0\Exe.deps.json
+C:\Users\user\source\repos\InterviewExcersie\Exe\bin\Debug\net5.0\Exe.runtimeconfig.json
+C:\Users\user\source\repos\InterviewExcersie\Exe\bin\Debug\net5.0\Exe.runtimeconfig.dev.json
+C:\Users\user\source\repos\InterviewExcersie\Exe\bin\Debug\net5.0\Exe.dll
+C:\Users\user\source\repos\InterviewExcersie\Exe\bin\Debug\net5.0\ref\Exe.dll
+C:\Users\user\source\repos\InterviewExcersie\Exe\bin\Debug\net5.0\Exe.pdb
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\Exe.dll
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\ref\Exe.dll
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\Exe.pdb
+C:\Users\user\source\repos\InterviewExcersie\Exe\obj\Debug\net5.0\Exe.genruntimeconfig.cache

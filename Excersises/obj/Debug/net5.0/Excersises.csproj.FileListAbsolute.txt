@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\InterviewExcersie\Excersises\bin\Debug\net5.0\Excersises.deps.json
+C:\Users\user\source\repos\InterviewExcersie\Excersises\bin\Debug\net5.0\Excersises.dll
+C:\Users\user\source\repos\InterviewExcersie\Excersises\bin\Debug\net5.0\ref\Excersises.dll
+C:\Users\user\source\repos\InterviewExcersie\Excersises\bin\Debug\net5.0\Excersises.pdb
+C:\Users\user\source\repos\InterviewExcersie\Excersises\obj\Debug\net5.0\Excersises.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InterviewExcersie\Excersises\obj\Debug\net5.0\Excersises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InterviewExcersie\Excersises\obj\Debug\net5.0\Excersises.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InterviewExcersie\Excersises\obj\Debug\net5.0\Excersises.AssemblyInfo.cs
+C:\Users\user\source\repos\InterviewExcersie\Excersises\obj\Debug\net5.0\Excersises.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InterviewExcersie\Excersises\obj\Debug\net5.0\Excersises.dll
+C:\Users\user\source\repos\InterviewExcersie\Excersises\obj\Debug\net5.0\ref\Excersises.dll
+C:\Users\user\source\repos\InterviewExcersie\Excersises\obj\Debug\net5.0\Excersises.pdb

@@ -8,13 +8,13 @@ namespace Exe
 {
    public static class Converter
     {
-        public static double toFaranite(double celcious)
+        public static double toFaranite(double celciouss)
         {
-            return (celcious * 9 / 5) + 32;
+            return (celciouss * 9 / 5) + 32;
         }
-        public static double toCelcious(double farhanite)
+        public static double toCelcious(double farhanitee)
         {
-            return (farhanite - 32) * 5 / 9;
+            return (farhanitee - 32) * 5 / 9;
         }
     }
 }
